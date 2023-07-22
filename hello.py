@@ -5,7 +5,8 @@ def more_hello():
 def more_goodbye():
     return "bye"
 
-
+print ("Samson is testing amaznon AWS")
+print("Amazon AWS")
 # # This is nonsense code that generates a warning
 # var = 1
 # var = var
