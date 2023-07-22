@@ -6,8 +6,8 @@ def more_goodbye():
     return "bye"
 
 print ("Samson is testing amaznon AWS")
-print("Amazon AWS")
 print("still testing")
+print("Test more and more and more")
 # # This is nonsense code that generates a warning
 # var = 1
 # var = var
